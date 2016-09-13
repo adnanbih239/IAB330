@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linearLayout1">
+    <StackView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/stackView3" />
+    <TextView
+        android:text="History"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <TextView
+       android:text="Search"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:id="@+id/searchbar"/>
+    <EditText
+       android:inputType="text"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@id/searchbar"
+       android:id="@+id/searchbarEntry"
+       android:width="165dp"/>
+    
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="32.0dp"
+        android:id="@+id/checkBox1"
+        android:text="User one (Administration)" />
+    <CheckBox
+        android:text="User two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox2" />
+    <CheckBox
+        android:text="User three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox3" />
+    <CheckBox
+        android:text="User four"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox4" />
+    <TwoLineListItem
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/twoLineListItem1" />
+    <Button
+        android:text="Send Request"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/requestbutton"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginRight="0.0dp"
+        android:layout_marginTop="0.0dp" />
+</LinearLayout>
