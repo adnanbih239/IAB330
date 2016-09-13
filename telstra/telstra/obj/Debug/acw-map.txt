@@ -1,4 +1,0 @@
-telstra.MainActivity, telstra;md5833dc8ffaebcd474558b9e884cfbd873.MainActivity
-telstra.MainActivity, telstra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5833dc8ffaebcd474558b9e884cfbd873.MainActivity
-telstra.MainActivity;md5833dc8ffaebcd474558b9e884cfbd873.MainActivity
-telstra.MainActivity;md5833dc8ffaebcd474558b9e884cfbd873.MainActivity
