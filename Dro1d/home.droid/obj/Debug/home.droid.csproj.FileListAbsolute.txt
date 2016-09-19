@@ -1,0 +1,135 @@
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\home.droid.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\home.droid.pdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\home.droid.home.droid.apk
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\home.droid.home.droid-Signed.apk
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\Dro1d.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Binding.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Binding.Droid.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Core.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Droid.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Droid.Shared.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Localization.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Platform.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Platform.Droid.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\Dro1d.pdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Binding.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Localization.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\MvvmCross.Platform.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\home.droid.csprojResolveAssemblyReference.cache
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\home.droid.dll
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\home.droid.pdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\bin\home.droid.home.droid.apk
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\layout\include_layout.xml
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\layout\main.xml
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\values\strings.xml
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\icon.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\ic_action_google_map.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\ic_action_man.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\ic_add_location_white_24dp.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\ic_card_travel_white_24dp.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\ic_history_white_24dp.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\ic_place_white_24dp.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\ic_settings_white_24dp.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\res\drawable\ic_star_rate_white_18dp.png
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\R.cs.flag
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\uploadflags.txt
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\home.droid.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\Dro1d.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\Java.Interop.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\Mono.Android.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\Mono.Android.Export.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\mscorlib.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\System.Core.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\System.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\System.Net.Http.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\System.Xml.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\bin\Debug\System.Xml.Linq.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\Dro1d.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\home.droid.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\MvvmCross.Binding.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\MvvmCross.Localization.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\MvvmCross.Platform.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\System.Core.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\System.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\Users\kelvi\documents\visual studio 2015\Projects\Dro1d\home.droid\obj\Debug\home.droid.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\home.droid.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\home.droid.pdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\home.droid.home.droid.apk
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\home.droid.home.droid-Signed.apk
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\Dro1d.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Binding.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Core.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Droid.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Droid.Shared.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Localization.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\Dro1d.pdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\Dro1d.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\home.droid.csprojResolveAssemblyReference.cache
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\home.droid.dll
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\home.droid.pdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\bin\home.droid.home.droid.apk
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\layout\include_layout.xml
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\layout\main.xml
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\values\strings.xml
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\icon.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\ic_action_google_map.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\ic_action_man.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\ic_add_location_white_24dp.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\ic_card_travel_white_24dp.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\ic_history_white_24dp.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\ic_place_white_24dp.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\ic_settings_white_24dp.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\res\drawable\ic_star_rate_white_18dp.png
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\R.cs.flag
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\uploadflags.txt
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\home.droid.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\System.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\Dro1d.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\home.droid.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\MvvmCross.Binding.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\MvvmCross.Localization.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\MvvmCross.Platform.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\obj\Debug\home.droid.dll.mdb
+C:\Users\Ado\Desktop\Dro1d\home.droid\bin\Debug\home.droid.dll.mdb
