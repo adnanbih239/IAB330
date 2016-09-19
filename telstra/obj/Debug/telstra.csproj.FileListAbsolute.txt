@@ -36,4 +36,42 @@ C:\Users\King Kong\Documents\Visual Studio 2015\Projects\telstra\telstra\obj\Deb
 C:\Users\King Kong\Documents\Visual Studio 2015\Projects\telstra\telstra\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\King Kong\Documents\Visual Studio 2015\Projects\telstra\telstra\obj\Debug\android\assets\telstra.dll.mdb
 C:\Users\King Kong\Documents\Visual Studio 2015\Projects\telstra\telstra\obj\Debug\telstra.dll.mdb
-C:\Users\King Kong\Documents\Visual Studio 2015\Projects\telstra\telstra\bin\Debug\telstra.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\telstra.dll
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\telstra.pdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\telstra.telstra.apk
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\telstra.telstra-Signed.apk
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\telstra.csprojResolveAssemblyReference.cache
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\telstra.dll
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\telstra.pdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\bin\telstra.telstra.apk
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\res\layout\main.xml
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\res\values\strings.xml
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\res\drawable\icon.png
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\R.cs.flag
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\uploadflags.txt
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\Java.Interop.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\Mono.Android.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\mscorlib.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\System.Core.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\System.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\System.Xml.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\telstra.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\System.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\android\assets\telstra.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\obj\Debug\telstra.dll.mdb
+C:\Users\kelvi\Documents\Visual Studio 2015\Projects\telstra\bin\Debug\telstra.dll.mdb
