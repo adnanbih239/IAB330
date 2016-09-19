@@ -1,2 +1,0 @@
-android.app.Application
-HomePrototypeMVVMCross.Droid.HomePrototypeMVVMCross.Droid
