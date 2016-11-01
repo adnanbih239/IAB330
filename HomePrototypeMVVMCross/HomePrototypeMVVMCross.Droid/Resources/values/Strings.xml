@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">HomePrototypeMVVMCross.Droid</string>
+    <string name="google_maps_key">AIzaSyC91PFcnM2Yq0WRU9VV_18x1qhbYKS7fRE</string>
+</resources>

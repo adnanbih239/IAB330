@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:checkableBehavior="single">
+     <item
+      android:id="@+id/message"
+      android:title="Messages"
+      android:icon="@drawable/ic_message_white_24dp"/>
+    <item
+      android:id="@+id/request"
+      android:title="Request status"
+	  android:icon="@drawable/ic_add_location_white_24dp"/>
+    <item
+      android:id="@+id/viewFloor"
+      android:title="View Floor Plan Map"
+	  android:icon="@drawable/ic_card_travel_white_24dp"/>
+    <item
+   android:id="@+id/favourites"
+   android:title="Favourites"
+ android:icon="@drawable/ic_star_rate_white_18dp"/>
+    <item
+      android:id="@+id/history"
+      android:title="History"
+	  android:icon="@drawable/ic_history_white_24dp"/>
+    <item
+      android:id="@+id/settings"
+      android:title="Settings"
+      android:icon="@drawable/ic_settings_white_24dp"/>
+  </group>
+</menu>

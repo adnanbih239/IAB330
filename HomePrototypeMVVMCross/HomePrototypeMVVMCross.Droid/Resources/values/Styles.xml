@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+  <style name="MyTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">#8BC34A</item>
+    <item name="windowNoTitle">true</item>
+    <item name="windowActionBar">true</item>
+    <item name="colorPrimaryDark">#1976D2</item>
+    <item name="colorAccent">#FF4081</item>
+    <item name="drawerArrowStyle">@style/myDrawerArrowStyle</item>
+
+  </style>
+
+  <style name="MySplash.Base" parent="Theme.AppCompat.Light.NoActionBar">
+  </style>
+  <style name="MySplash.Splash" parent="MySplash.Base">
+  </style>
+  <style name="MySplash.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowBackground">@drawable/splash_screen</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+  
+  <style name="MyTheme" parent="MyTheme.Base">
+  </style>
+  <style name="NavigationDrawerStyle">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+  <style name="myDrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+    <item name="color">#F5F5F5</item>
+    <item name="spinBars">true</item>
+  </style>
+</resources>
