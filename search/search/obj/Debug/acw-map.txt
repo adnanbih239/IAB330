@@ -1,4 +1,0 @@
-search.MainActivity, search;md5a974fd90f371de2b48f14742535cd233.MainActivity
-search.MainActivity, search, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a974fd90f371de2b48f14742535cd233.MainActivity
-search.MainActivity;md5a974fd90f371de2b48f14742535cd233.MainActivity
-search.MainActivity;md5a974fd90f371de2b48f14742535cd233.MainActivity

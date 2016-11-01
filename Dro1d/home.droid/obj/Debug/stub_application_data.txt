@@ -1,2 +1,0 @@
-android.app.Application
-home.droid.home.droid

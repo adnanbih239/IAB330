@@ -1,4 +1,0 @@
-login.MainActivity, login;md5337a4b54e411e060ec1d37350644568a.MainActivity
-login.MainActivity, login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5337a4b54e411e060ec1d37350644568a.MainActivity
-login.MainActivity;md5337a4b54e411e060ec1d37350644568a.MainActivity
-login.MainActivity;md5337a4b54e411e060ec1d37350644568a.MainActivity
